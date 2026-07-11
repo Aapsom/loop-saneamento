@@ -1,0 +1,13 @@
+# saídas geradas (regeneráveis via os scripts)
+data/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# segredos — nunca versionar
+.env
+*.secret
+*_key
+*.key
